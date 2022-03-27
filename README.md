@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yhungest
-- 👀 I’m interested in both make and female developers
-- 🌱 I’m currently a website developer and graphics designer and programmer
+- 👀 I’m interested in both male and female developers
+- 🌱 I’m currently a frontend developer and graphics designer 
 - 💞️
-- 📫 How to reach me  at my number +2348079355005
+- 📫 contact me for business
 
 <!---
 Yhungest/Yhungest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
